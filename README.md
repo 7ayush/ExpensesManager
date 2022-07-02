@@ -47,4 +47,4 @@ If you want to contact me you can reach me at ayush.kaushik711@gmail.com.
 
 ## License
 
-This project uses the following license: [MIT](https://github.com/7ayush/ExpensesManager/License).
+This project uses the following license: [MIT](https://github.com/7ayush/ExpensesManager/blob/master/LICENSE).
